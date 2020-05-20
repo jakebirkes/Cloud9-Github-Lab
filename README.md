@@ -1,2 +1,3 @@
 # Cloud9-Github-Lab
-AWS Class
+
+This is an assignment for my AWS Class I am currently attending.
